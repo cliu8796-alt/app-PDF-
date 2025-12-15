@@ -1,0 +1,5 @@
+{
+  "name": "PDF合并大师",
+  "description": "一个安全、快速的浏览器端PDF合并工具。支持PDF、JPG、PNG文件合并，拖拽排序，一键生成。",
+  "requestFramePermissions": []
+}
